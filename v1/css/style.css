@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #484848;
+}
+
+#wrapper {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+h1 {
+    margin: 50px 0;
+    color: #dadada;
+    font-size: 5em;
+    font-weight: normal;
+    text-align: center;
+    font-weight: 100;
+}
+
+main {
+    overflow: hidden;
+}
+
+main div {
+    width: 199px;
+    background-color: #5d5d5d;
+    color: #cacaca;
+    margin-right: 1px;
+    float: left;
+}
+
+main p {
+    padding: 15px;
+    line-height: 1.5rem;
+}
